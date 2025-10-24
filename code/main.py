@@ -4,7 +4,6 @@ import ioh  # IOHexperimenter
 import sys
 import argparse
 
-ALGORITHM = sys.argv[1]
 ROOT = "DATA"
 
 def main():
