@@ -13,7 +13,7 @@ def main():
     parser.add_argument("--functions", type=int, nargs="+", default=[2100,2101,2102,2103,2200,2201,2202,2203,2300,2301,2302], help="PBO function IDs")
     parser.add_argument("--dim", type=int, default=100)
     parser.add_argument("--reps", type=int, default=30)
-    parser.add_argument("--budget", type=int, default=10_0000)
+    parser.add_argument("--budget", type=int, default=10_000)
     parser.add_argument("--seed", type=int, default=63)
     parser.add_argument("--pop", type=int, default=20)
     args = parser.parse_args()
