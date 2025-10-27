@@ -5,6 +5,10 @@ from gsemo import GSEMO, GSEMOConfig
 from GA_base import Individual
 
 def get_algorithm(name):
+    if name == "SOEA":
+        return SOEA_Submodular
+    if name == "MOEA":
+        return MOEA_Submodular
     if name == "EA":
         return EA
     if name == "RLS":
