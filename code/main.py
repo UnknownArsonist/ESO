@@ -12,7 +12,6 @@ def main():
     parser.add_argument("--dim", type=int, default=100)
     parser.add_argument("--reps", type=int, default=30)
     parser.add_argument("--budget", type=int, default=10_000)
-    parser.add_argument("--k", type=int, default=10, help="Uniform constraint (|x|<=k) for submodular problems")
     parser.add_argument("--seed", type=int, default=63)
     parser.add_argument("--pop", type=int, default=20)   # used by GA variants
     parser.add_argument("--k", type=int, default=10)     # used by GSEMO
