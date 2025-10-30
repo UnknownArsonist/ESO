@@ -3,6 +3,9 @@ a1864331 - Harry:
 
 a1800294 - Zachary
     - Exercise 1
+      Refactored GA from Assignment 2 PBO to use GA_base as a generic interface for a Genetic Algorithm.
+      Reworked RLS and EA to also use the same GA_base interface.
+      Wrote analysis for Exercise 1 RLS, EA, and GA
 
 a1884969 - Jan Philippe (JP) Banquicio
     - Exercise 4
