@@ -19,6 +19,7 @@ a1819316 - Xiang li
 
 a1785401 - Mingyang Zhang
     - Exercise 3 (shared)
+	The third part of Exercise 3 is under my responsibility. I integrated and analyzed the results of the SOEA, MOEA and GSEMO algorithms on the MaxCoverage and 			MaxInfluence problems. I was responsible for creating all the fixed budget diagrams, explaining the experimental results, and writing the analysis and conclusion 	       sections. I also refined the visualization and ensured that the final report clearly presented the performance comparison and analysis of our algorithm.
 
 a1894858 - Parth Goel
     - Exercise 2 (shared)
