@@ -1,17 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Exercise 4 runner (uses your existing implementations via GA_Algorithms.get_algorithm):
-- Algorithms: RLS, EA, GA, GSEMO, SOEA, MOEA
-- Problems: MaxCoverage2100..2103, MaxInfluence2200..2203
-- Repetitions: 30, Budget: 100,000
-- Logs: IOHprofiler Analyzer format (use IOHanalyzer for fixed-budget plots)
-- Trade-off plots: saves GSEMO trade-off (cost vs objective) for the FIRST run on each instance
-
-Requires:
-  pip install IOHexperimenter matplotlib
-"""
-
 import argparse
 from pathlib import Path
 import numpy as np
