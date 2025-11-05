@@ -1,6 +1,7 @@
 a1864331 - Harry:
     - Exercise 2 (shared)
       Implemented the multi-objective fitness function (2.1) and GSEMO algorithm (2.2).
+      Cleaned up repo for submission and wrote the readme. 
 
 a1800294 - Zachary
     - Exercise 1
