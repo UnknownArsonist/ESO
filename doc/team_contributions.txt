@@ -10,6 +10,9 @@ a1800294 - Zachary
 
 a1884969 - Jan Philippe (JP) Banquicio
     - Exercise 4
+      Wrote the code to run all the algorithms at 10 000 evaluations 30 times 
+      Wrote code to graph all the algortithms at 10 000 evaluations 
+      Wrote the Analysis for Exercise 4
 
 a1837593 - Xujia Zhang
     - Exercise 3 (shared)
