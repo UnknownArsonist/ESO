@@ -13,6 +13,9 @@ a1884969 - Jan Philippe (JP) Banquicio
 
 a1837593 - Xujia Zhang
     - Exercise 3 (shared)
+	Implemented the second dot point of exserces 3 (Multi-object evolutionary)
+	Reworked GA_alogorithm, run_ex3.py to make it working witt part 2 of the exersise.
+	
 	
 a1819316 - Xiang li
     - Exercise 3 (shared)
