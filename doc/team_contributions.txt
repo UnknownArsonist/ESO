@@ -22,4 +22,4 @@ a1785401 - Mingyang Zhang
 
 a1894858 - Parth Goel
     - Exercise 2 (shared)
-     
+      Tested the algorithms. Did analysis of the results. Made the trade-off plots. 
